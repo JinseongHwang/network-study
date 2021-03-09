@@ -12,7 +12,7 @@
 1. 소켓의 생성 - socket()
 2. 목표 소켓과 연결 - connect()
 
-*프로그램 컴파일 및 실행(on linux)*
+**프로그램 컴파일 및 실행 (On linux)**
 ```text
 gcc hello_server.c -o hserver // 컴파일 및 hserver(named) 프로그램 생성
 ./hserver 9190 // 9190 포트에서 hserver 프로그램 실행(요청 대기)
