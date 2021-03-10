@@ -4,8 +4,8 @@
 
 ### 개발 환경
 
-- CPU: Intel i5 8th
-- OS: Linux Ubuntu 20.04 64bit
+- CPU: Intel i5 8th 64bit
+- OS: Linux Ubuntu 20.04
 - Editor: CLion 2020.03
 
 ### About CMake
